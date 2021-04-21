@@ -44,3 +44,10 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+#line_bot_api_for_ruby
+gem 'line-bot-api'
+
+#to manage env
+gem 'dotenv-rails'
+
